@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Categories>
+  <Category id="1">
+    <name>cat1</name>
+    <Books>
+      <Book id="1">
+        <name>book1</name>
+        <pages>300</pages>
+        <YearPress>2019</YearPress>
+      </Book>
+      <Book id="2">
+        <name>book2</name>
+        <pages>350</pages>
+        <YearPress>2018</YearPress>
+      </Book>
+    </Books>
+  </Category>
+  <Category id="2">
+    <name>cat2</name>
+    <Books>
+      <Book id="3">
+        <name>book3</name>
+        <pages>200</pages>
+        <YearPress>2020</YearPress>
+      </Book>
+    </Books>
+  </Category>
+</Categories>
